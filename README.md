@@ -16,8 +16,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+ 
+
 
 
 
@@ -33,7 +33,7 @@
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
 
@@ -46,7 +46,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
 
@@ -57,6 +57,6 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+
 
 <br/>  
