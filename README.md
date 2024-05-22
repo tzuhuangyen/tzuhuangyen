@@ -3,16 +3,16 @@
 <h1 align="center">Hi 👋, I'm Yennefer(Yen)</h1>
 <h3 align="center">A passionate Full-stack developer from EU</h3>
 
-- 🔭 I’m currently working on [petsLove]([https://github.com/tzuhuangyen/MERN-petslove/settings/pages](https://tzuhuangyen.github.io/MERN-petslove/))project
+- 🔭 I’m currently working on fullstack project: [petsLove]([https://github.com/tzuhuangyen/MERN-petslove/settings/pages](https://tzuhuangyen.github.io/MERN-petslove/)
 
-- 💬 Ask me about  anything related to MERN stack and related technologies
+- 💬 Discuss me about anything related to MERN stack and related technologies
 
 - 📫 How to reach me **912yan@gmail.com**
 
 
 <h3 align="left">Know about my experiences</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/tzu-huang-yen-971b45192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tzu-huang-yen-971b45192" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/tzu-huang-yen-971b45192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tzu-huang-yen-971b45192" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
