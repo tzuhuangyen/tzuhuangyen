@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yennefer(Yen)</h1>
-<h3 align="center">MERN Frontend Python developer</h3>
+<h3 align="center">Frontend developer MERN Python </h3>
 
 - 🔭 I’m currently working on fullstack project: [petsLove](https://github.com/tzuhuangyen/PetsLove)
 
